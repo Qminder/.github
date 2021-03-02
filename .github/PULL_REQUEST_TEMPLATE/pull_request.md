@@ -1,8 +1,3 @@
----
-name: Pull request
-about: Default pull request template 
----
-
 <!--
 The title of the pull request should follow this format: 
 
@@ -25,6 +20,7 @@ types:
 - [ ] Bug fix (non-breaking change that fixes an issue)
 - [ ] New feature (non-breaking change that adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Refactor (Changed implementation, but existing functionality and APIs are not changed)
 
 ## Related issues
 
@@ -40,7 +36,5 @@ types:
 
 ### Code review 
 
-- [ ]  This pull request has a descriptive title and information useful to a reviewer. There may be a screenshot or screencast attached
-- [ ] "Ready for review" label attached to the PR and reviewers mentoned in a comment
 - [ ] Changes have been reviewed by at least one other engineer
-- [ ] Issue from task tracker has a link to this pull request
+
