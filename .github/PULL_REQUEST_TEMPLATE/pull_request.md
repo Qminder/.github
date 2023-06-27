@@ -1,5 +1,5 @@
 <!--
-The title of the pull request should follow this format: 
+The title of the pull request should follow this format:
 
 type(scope): description
 
@@ -24,8 +24,6 @@ types:
 
 ## Related issues
 
-> Fix #3
-
 ## Checklists
 
 ### Development
@@ -34,7 +32,6 @@ types:
 - [ ] The code changed/added as part of this pull request has been covered with tests
 - [ ] All tests related to the changed code pass in development
 
-### Code review 
+### Code review
 
 - [ ] Changes have been reviewed by at least one other engineer
-
