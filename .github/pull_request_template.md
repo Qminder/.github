@@ -1,1 +1,11 @@
-./PULL_REQUEST_TEMPLATE/pull_request.md
+## Description
+
+
+
+## Related issues
+
+
+
+## Checklist
+
+- [ ] Code is covered with tests
