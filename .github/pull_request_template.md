@@ -4,4 +4,4 @@
 
 ## Checklist
 
-- [ ] Code is covered with tests
+- [ ] Code is covered with tests.
